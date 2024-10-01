@@ -1,0 +1,47 @@
+/* Navbar Section */
+
+nav{
+    background: url(./img/nav-back-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+nav .container-navbar  {
+    width: 600px;
+    height: 209px;
+    text-align: center;
+    padding-top: 441px;
+    color: #fff;
+}
+
+nav .container-navbar div{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    color: #c0c0c0;
+    text-transform: uppercase;
+}
+
+nav .container-navbar p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #c0c0c0;
+}
+
+nav .container-navbar h1 {
+    font-size: 54px;
+    font-weight: 400;
+    line-height: 59.4px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+nav .container-navbar img {
+    width: 294px;
+    height: 22px;
+    margin-left: 740px;
+    margin-top: 10px;
+}

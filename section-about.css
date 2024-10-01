@@ -1,0 +1,101 @@
+/* Section About */
+
+main .section-about .container-about .about-title{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 42px;
+    text-align: center;
+    color: #fff;
+    margin-top: 120px;
+}
+
+main .section-about .container-about .about-discription{
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 28px;
+    color: #c0c0c0;
+}
+
+main .section-about .container-about .section-about-boxes{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 16px;
+    margin: 0 auto;
+    width: 1168px;
+}
+
+main .section-about .container-about .section-about-boxes .section-about-box{
+    width: 576px;
+    height: 600px;
+    padding: 30px;
+}
+
+main .section-about .container-about .section-about-boxes .box1{
+    background-image: url(./img/section-about-box1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main .section-about .container-about .section-about-boxes .box2{
+    background-image: url(./img/section-about-box2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main .section-about .container-about .section-about-boxes .box3{
+    background-image: url(./img/section-about-box3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main .section-about .container-about .section-about-boxes .box4{
+    background-image: url(./img/section-about-box4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main .section-about .container-about .section-about-boxes .section-about-box .about-box-title{
+    padding-top: 390px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+main .section-about .container-about .section-about-boxes .section-about-box .about-title-discription{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    height: 80px;
+    margin-top: 10px;
+    color: #c0c0c0;
+    /* margin-bottom: 30px; */
+}
+
+main .section-about .container-about .section-about-boxes .section-about-box .about-title-btn{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #000;
+    border-radius: 14px;
+    padding: 5px;
+}
+
+main .section-about .container-about .section-about-boxes .section-about-box .box-title{
+    padding-top: 370px;
+}
+
+.box-nimadir{
+    margin-bottom: 20px;
+}
